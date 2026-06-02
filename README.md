@@ -2,7 +2,7 @@
 
 <H1 ALIGN=CENTER> Experiment-6: Implementation of Semantic Analysis </H1>
 
-### Name: Sowmiya g
+### Name: Sowmiya G
 ### Register Number: 2305002023
 
 ## Aim: 
